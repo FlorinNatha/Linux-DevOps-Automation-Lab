@@ -155,7 +155,7 @@ chmod +x scripts/*.sh
 ```bash
 bash scripts/main_menu.sh
 ```
-
+ 
 ### Step 3: Or run individual scripts
 ```bash
 # System Information
