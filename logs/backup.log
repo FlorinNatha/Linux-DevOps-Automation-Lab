@@ -1,0 +1,27 @@
+# Linux DevOps Automation Lab — Backup Log
+# Created: AUTO-GENERATED
+# Format: [TIMESTAMP] [LEVEL] Message
+# ─────────────────────────────────────────────────────────────────
+[2026-05-06 13:51:36] [INFO] Backup script started by nathasha_ubuntu
+[2026-05-06 13:51:36] [INFO] Starting backup of: scripts/log_report.sh
+[2026-05-06 13:51:36] [INFO] Destination: /mnt/e/Self_Learning/DevOps/DevOps_roadmap/linux-devops-lab/scripts/../backup/log_report.sh_backup_2026-05-06_13-51.tar.gz
+[2026-05-06 13:51:36] [SUCCESS] Backup created: log_report.sh_backup_2026-05-06_13-51.tar.gz (Size: 4.0K)
+[2026-05-06 13:51:36] [SUCCESS] Integrity check PASSED — 1 files archived
+[2026-05-06 13:51:37] [INFO] No old backups to clean (count: 1)
+[2026-05-06 13:51:37] [SUCCESS] Backup process completed successfully
+[2026-05-06 14:19:17] [INFO] Backup script started by nathasha_ubuntu
+[2026-05-06 14:19:17] [WARN] Default source /home/nathasha_ubuntu/Documents not found. Using demo directory.
+[2026-05-06 14:19:17] [INFO] Starting backup of: /mnt/e/Self_Learning/DevOps/DevOps_roadmap/linux-devops-lab/scripts/../demo_source
+[2026-05-06 14:19:17] [INFO] Destination: /mnt/e/Self_Learning/DevOps/DevOps_roadmap/linux-devops-lab/scripts/../backup/demo_source_backup_2026-05-06_14-19.tar.gz
+[2026-05-06 14:19:18] [SUCCESS] Backup created: demo_source_backup_2026-05-06_14-19.tar.gz (Size: 0)
+[2026-05-06 14:19:18] [SUCCESS] Integrity check PASSED — 5 files archived
+[2026-05-06 14:19:18] [INFO] No old backups to clean (count: 2)
+[2026-05-06 14:19:18] [SUCCESS] Backup process completed successfully
+[2026-05-06 14:20:14] [INFO] Backup script started by nathasha_ubuntu
+[2026-05-06 14:20:14] [WARN] Default source /home/nathasha_ubuntu/Documents not found. Using demo directory.
+[2026-05-06 14:20:14] [INFO] Starting backup of: /mnt/e/Self_Learning/DevOps/DevOps_roadmap/linux-devops-lab/scripts/../demo_source
+[2026-05-06 14:20:14] [INFO] Destination: /mnt/e/Self_Learning/DevOps/DevOps_roadmap/linux-devops-lab/scripts/../backup/demo_source_backup_2026-05-06_14-20.tar.gz
+[2026-05-06 14:20:15] [SUCCESS] Backup created: demo_source_backup_2026-05-06_14-20.tar.gz (Size: 0)
+[2026-05-06 14:20:15] [SUCCESS] Integrity check PASSED — 5 files archived
+[2026-05-06 14:20:15] [INFO] No old backups to clean (count: 3)
+[2026-05-06 14:20:16] [SUCCESS] Backup process completed successfully

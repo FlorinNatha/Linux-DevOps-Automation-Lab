@@ -1,0 +1,10 @@
+# Linux DevOps Automation Lab — Process Monitor Log
+# Created: AUTO-GENERATED
+# Format: [TIMESTAMP] [LEVEL] Message
+# ─────────────────────────────────────────────────────────────────
+[2026-05-06 14:22:38] [PROC-MON] [INFO] Process monitor started by nathasha_ubuntu
+[2026-05-06 14:22:45] [PROC-MON] [INFO] Top CPU processes displayed
+[2026-05-06 14:25:07] [PROC-MON] [INFO] Top memory processes displayed
+[2026-05-06 14:26:03] [PROC-MON] [INFO] Top memory processes displayed
+[2026-05-06 14:26:13] [PROC-MON] [INFO] Top CPU processes displayed
+[2026-05-06 14:26:45] [PROC-MON] [INFO] Exited by nathasha_ubuntu

@@ -1,0 +1,36 @@
+# Linux DevOps Automation Lab — System Log
+# Created: AUTO-GENERATED
+# Format: [TIMESTAMP] [SCRIPT] [LEVEL] Message
+# ─────────────────────────────────────────────────────────────────
+[2026-05-06 14:19:02] [INFO] System info script started by nathasha_ubuntu
+--- System Info Snapshot: Wed May  6 14:19:03 +0530 2026 ---
+User: nathasha_ubuntu | Host: DESKTOP-DT68M8M
+Uptime: up 3 hours, 7 minutes
+CPU Load: 0.00 0.02 0.00
+Memory: Total: 7792MB | Used: 601MB | Free: 7136MB | Usage: 7.7%
+Disk: Total: 1007G | Used: 1.3G | Free: 955G | Usage: 1%
+---
+[2026-05-06 14:19:03] [INFO] System info script completed successfully
+[2026-05-06 14:19:38] [INFO] System info script started by nathasha_ubuntu
+--- System Info Snapshot: Wed May  6 14:19:39 +0530 2026 ---
+User: nathasha_ubuntu | Host: DESKTOP-DT68M8M
+Uptime: up 3 hours, 8 minutes
+CPU Load: 0.00 0.01 0.00
+Memory: Total: 7792MB | Used: 602MB | Free: 7135MB | Usage: 7.7%
+Disk: Total: 1007G | Used: 1.3G | Free: 955G | Usage: 1%
+---
+[2026-05-06 14:19:40] [INFO] System info script completed successfully
+[2026-05-06 14:21:02] [USER-MGR] [INFO] User Manager started by nathasha_ubuntu
+[2026-05-06 14:21:09] [USER-MGR] [ERROR] Run without root by nathasha_ubuntu
+[2026-05-06 14:21:41] [USER-MGR] [INFO] User Manager started by nathasha_ubuntu
+[2026-05-06 14:22:12] [USER-MGR] [INFO] User list displayed by nathasha_ubuntu
+[2026-05-06 14:22:33] [USER-MGR] [INFO] Exited by nathasha_ubuntu
+[2026-05-06 14:26:57] [LOG-RPT] [INFO] Log report script started by nathasha_ubuntu
+[2026-05-06 14:27:07] [LOG-RPT] [INFO] System logs read
+[2026-05-06 14:27:54] [LOG-RPT] [INFO] Error analysis complete: errors=1 warns=0
+0
+[2026-05-06 14:28:02] [LOG-RPT] [INFO] Failed logins counted: 0
+0
+[2026-05-06 14:28:10] [LOG-RPT] [INFO] Disk usage report generated
+[2026-05-06 14:28:20] [LOG-RPT] [SUCCESS] Full report generated: /mnt/e/Self_Learning/DevOps/DevOps_roadmap/linux-devops-lab/scripts/../logs/report_2026-05-06_14-26.txt
+[2026-05-06 14:28:26] [LOG-RPT] [INFO] Exited by nathasha_ubuntu

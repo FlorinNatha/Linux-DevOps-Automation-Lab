@@ -1,0 +1,3 @@
+# Backup directory placeholder
+# Backups will be stored here as .tar.gz files
+# Format: <foldername>_backup_YYYY-MM-DD_HH-MM.tar.gz
